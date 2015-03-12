@@ -52,4 +52,5 @@ I recommend buying RBC's [Classic Medical Plan Single Trip or Multi-Trip Annual 
 * [Delta Airlines](http://www.delta.com/content/www/en_US/agency/useful-resources/peanut-allergy-policy.html) will refrain from serving peanut products on board and allow customers to pre-board in order to clean seats if you call ahead/inform flight attendants at the gate. There is no mention of tree nuts here.
 * [Alaska Airlines](http://www.alaskaair.com/content/travel-info/accessible-services/specialservices-other.aspx) says their food may contain nuts, and allows pre-boarding.
 * [Virgin America](https://www.virginamerica.com/) doesn't seem to have a policy available anywhere online, although I've never flown virgin so I'm not sure about this one.
+* [JetBlue](http://help.jetblue.com/SRVS/CGI-BIN/webisapi.dll/,/?St=208,E=0000000000232103285,K=5172,Sxi=2,t=casePrint,case=obj%283071%29) does not serve peanuts, although they may serve tree nuts. They allow pre-boarding for wipe-downs and will create a two-row buffer zone around an allergic passenger. All of their planes have an Epi Pen in the medical kit.
 
