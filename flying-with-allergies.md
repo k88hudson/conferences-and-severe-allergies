@@ -44,7 +44,7 @@ I recommend buying RBC's [Classic Medical Plan Single Trip or Multi-Trip Annual 
 ### Canada
 
 * [Air Canada](http://www.aircanada.com/en/travelinfo/onboard/dining/nutritional.html) does not serve peanuts, but some flights do serve food containing tree nuts. If you call ahead they will provide a buffer zone and clean your seat/surrounding areas. They also have a policy related to severe pet allergies.
-* [WestJet](https://www.westjet.com/guest/en/travel/special-arrangements/special-needs/allergies.shtml) does not serve nuts or peanuts on board, stocks epi-pens, will create a buffer zone for you, and will make an announcement asking passengers not to eat nuts or peanuts.
+* [WestJet](https://www.westjet.com/guest/en/travel/special-arrangements/special-needs/allergies.shtml) does not serve nuts or peanuts on board. They stock epi-pens, will create a buffer zone for you, and will make an announcement asking passengers not to eat nuts or peanuts.
 
 ### US
 * [United Airlines](https://www.united.com/web/en-US/content/travel/specialneeds/needs/peanut-allergies.aspx) says they don't serve peanuts on board but they **do not offer nut-free buffer zones** to customers. It's unclear whether they still serve tree nuts.
