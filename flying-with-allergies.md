@@ -4,7 +4,7 @@
 
 If you have a severe allergy, **especially** an airborne/contact allergy to nuts, peanuts, or seeds, you should read this.
 
-Even if your allergy is not airborne, it is absolutely OK to take measures to protect yourself and feel safe. Being enclosed in a small space with dozens of people eating something you're fatally allergic to can be really scary, especially if it's something you've never done before. With a little preparation, your flight doesn't have to be that way.
+Even if your allergy is not airborne, it is absolutely OK to take measures to protect yourself and feel safe. Being enclosed in a small space with dozens of people eating something you're fatally allergic to can be really scary, especially if you've never flown before. With a little preparation, your flight doesn't have to be that way.
 
 ## What conference organizers should know
 
