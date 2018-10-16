@@ -47,10 +47,9 @@ I recommend buying RBC's [Classic Medical Plan Single Trip or Multi-Trip Annual 
 * [WestJet](https://www.westjet.com/guest/en/travel/special-arrangements/special-needs/allergies.shtml) does not serve nuts or peanuts on board. They stock epi-pens, will create a buffer zone for you, and will make an announcement asking passengers not to eat nuts or peanuts.
 
 ### US
-* [United Airlines](https://www.united.com/web/en-US/content/travel/specialneeds/needs/peanut-allergies.aspx) says they don't serve peanuts on board but they **do not offer nut-free buffer zones** to customers. It's unclear whether they still serve tree nuts.
+* [Alaska Airlines](http://www.alaskaair.com/content/travel-info/accessible-services/specialservices-other.aspx) says their food may contain nuts, and allows pre-boarding.
 * [American Airlines](https://www.aa.com/i18n/travelInformation/specialAssistance/allergies-meds-meals.jsp) does not serve peanuts but **they do serve tree nuts on board**. They **do not provide buffer zones or allow pre-boarding** for customers with severe allergies.
 * [Delta Airlines](http://www.delta.com/content/www/en_US/agency/useful-resources/peanut-allergy-policy.html) will refrain from serving peanut products on board and allow customers to pre-board in order to clean seats if you call ahead/inform flight attendants at the gate. There is no mention of tree nuts here.
-* [Alaska Airlines](http://www.alaskaair.com/content/travel-info/accessible-services/specialservices-other.aspx) says their food may contain nuts, and allows pre-boarding.
-* [Virgin America](https://www.virginamerica.com/) doesn't seem to have a policy available anywhere online, although I've never flown virgin so I'm not sure about this one.
 * [JetBlue](http://help.jetblue.com/SRVS/CGI-BIN/webisapi.dll/,/?St=208,E=0000000000232103285,K=5172,Sxi=2,t=casePrint,case=obj%283071%29) does not serve peanuts, although they may serve tree nuts. They allow pre-boarding for wipe-downs and will create a two-row buffer zone around an allergic passenger. All of their planes have an Epi Pen in the medical kit.
-
+* [United Airlines](https://www.united.com/web/en-US/content/travel/specialneeds/needs/peanut-allergies.aspx) says they don't serve peanuts on board but they **do not offer nut-free buffer zones** to customers. It's unclear whether they still serve tree nuts.
+* [Virgin America](https://www.virginamerica.com/) has been [bought by Alaska Airlines](https://newsroom.alaskaair.com/2016-12-14-Alaska-Air-Group-closes-acquisition-of-Virgin-America-becomes-the-5th-largest-U-S-airline), so check their policy.
